@@ -49,7 +49,8 @@ Python/Flask/PostgreSQL ETL processing 500,000 synthetic records, with a mock PO
 </div>
 
 ## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-thapa-magar/)
+<a href="https://www.linkedin.com/in/rahul-thapa-magar/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 I'm actively looking for entry-level Data Engineer roles. Always happy to talk about Airflow DAG design, dbt incremental models, or anything lakehouse-related.
