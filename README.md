@@ -41,13 +41,6 @@ Spark-aggregated ML features (temperature, vibration, anomaly count) from stream
 ### [Retail ETL Pipeline](https://github.com/rtmagar/retail-etl-pipeline)
 Python/Flask/PostgreSQL ETL processing 500,000 synthetic records, with a mock POS API that includes a "chaos mode" to stress-test the pipeline's own deduplication logic.
 
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=rtmagar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rtmagar&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-thapa-magar/)
 
